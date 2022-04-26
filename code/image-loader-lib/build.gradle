@@ -47,7 +47,7 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
 
-                groupId = 'com.github.devrath\n'
+                groupId = 'com.github.devrath'
                 artifactId = 'image-loader-lib'
                 version = '1.0'
             }
