@@ -42,6 +42,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
 
-    implementation project(':image-loader-lib')
+    //implementation project(':image-loader-lib')
+    implementation 'com.github.devrath:DroidImageLoader:1.0'
+
 
 }
